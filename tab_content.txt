@@ -1,0 +1,5641 @@
+<div class="tab-pane fade active show" id="autab4-2022">
+ <div class="ih-points-table-sec">
+  <div class="ih-pt-bg">
+   <div class="ih-pt-tab-bg">
+    <div class="ih-pcard-sec">
+     <div class="ih-pcard-wrap">
+      <div class="dataTables_wrapper no-footer" id="t2_wrapper">
+       <table class="ih-td-tab auction-tbl dataTable no-footer ddtf-processed" id="t2" style="width: 100%;" width="100%">
+        <thead>
+         <tr class="ih-pt-tbl" style="display:revert">
+          <th aria-label="PLAYER" class="skip-filter sorting_disabled" colspan="1" rowspan="1" style="width: 0px; text-align: left;">
+           PLAYER
+          </th>
+          <th aria-label="NATIONALITY" class="sorting_disabled" colspan="1" rowspan="1" style="width: 0px;">
+           <div style="display:none">
+            NATIONALITY
+           </div>
+           <select class="form-control">
+            <option value="--all--">
+             NATIONALITY
+            </option>
+            <option value="Indian">
+             Indian
+            </option>
+            <option value="Overseas">
+             Overseas
+            </option>
+           </select>
+          </th>
+          <th aria-label="TYPE" class="sorting_disabled" colspan="1" rowspan="1" style="width: 0px;">
+           <div style="display:none">
+            TYPE
+           </div>
+           <select class="form-control">
+            <option value="--all--">
+             TYPE
+            </option>
+            <option value="Batsman">
+             Batsman
+            </option>
+            <option value="All-Rounder">
+             All-Rounder
+            </option>
+            <option value="Bowler">
+             Bowler
+            </option>
+            <option value="Wicket%20Keeper">
+             Wicket Keeper
+            </option>
+           </select>
+          </th>
+          <th aria-controls="t2" aria-label="BASE PRICE: activate to sort column ascending" aria-sort="descending" class="sorting sorting_desc" colspan="1" rowspan="1" style="width: 0px;" tabindex="0">
+           <div style="display:none">
+            BASE PRICE
+           </div>
+           <select class="form-control">
+            <option value="--all--">
+             BASE PRICE
+            </option>
+            <option value="%E2%82%B92%2C00%2C00%2C000">
+             ₹2,00,00,000
+            </option>
+            <option value="%E2%82%B91%2C50%2C00%2C000">
+             ₹1,50,00,000
+            </option>
+            <option value="%E2%82%B91%2C00%2C00%2C000">
+             ₹1,00,00,000
+            </option>
+            <option value="%E2%82%B975%2C00%2C000">
+             ₹75,00,000
+            </option>
+            <option value="%E2%82%B950%2C00%2C000">
+             ₹50,00,000
+            </option>
+            <option value="%E2%82%B940%2C00%2C000">
+             ₹40,00,000
+            </option>
+            <option value="%E2%82%B930%2C00%2C000">
+             ₹30,00,000
+            </option>
+            <option value="%E2%82%B920%2C00%2C000">
+             ₹20,00,000
+            </option>
+           </select>
+          </th>
+         </tr>
+        </thead>
+        <tbody id="pointsdata">
+         <tr class="odd">
+          <td>
+           Suresh Raina
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Steve Smith
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Shakib Al Hasan
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Adil Rashid
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Imran Tahir
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Mujeeb Zadran
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Adam Zampa
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           James Vince
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Marchant De Lange
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Saqib Mahmood
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ashton Agar
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Craig Overton
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B92%2C00%2C00%2C000">
+           ₹2,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Amit Mishra
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Aaron Finch
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Dawid Malan
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Eoin  Morgan
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ishant Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Chris Lynn
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Usman Khawaja
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Lewis Gregory
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Kane Richardson
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Colin Munro
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C50%2C00%2C000">
+           ₹1,50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Marnus Labuschagne
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Piyush Chawla
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Tabraiz Shamsi
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Joshua Philippe
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Andrew Tye
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Rilee Rossouw
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Roston Chase
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Moises Henriques
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Kedar Jadhav
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Colin  De Grandhomme
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           James Faulkner
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Darcy Short
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B91%2C00%2C00%2C000">
+           ₹1,00,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Sheldon Cottrell
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Reece Topley
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Todd Astle
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Martin Guptill
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ben Cutting
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Scott Kuggeleijn
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Dhawal Kulkarni
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Darren Bravo
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Carlos Brathwaite
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Keemo Paul
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Billy Stanlake
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B975%2C00%2C000">
+           ₹75,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Cheteshwar  Pujara
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Saurabh Tiwary
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Qais Ahmad
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ish Sodhi
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Najibullah Zadran
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Charith Asalanka
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           George Garton
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Litton Das
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Niroshan Dickwella
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Andre Fletcher
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Rahmanullah Gurbaz
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Shai Hope
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Heinrich Klaasen
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ben Mcdermott
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Kusal Mendis
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Kusal Perera
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sandeep Warrier
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Akila Dhananjaya
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Zahir Khan
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Keshav Maharaj
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Waqar Salamkheil
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Rahul Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Hayden Walsh
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Brandon King
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Janneman Malan
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Paul Stirling
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Hanuma Vihari
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Hazratullah Zazai
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Akeal Hosein
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Karim Janat
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Pawan Negi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Taskin Ahmed
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Naveen  Ul Haq
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           David Wiese
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shamrah Brooks
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Avishka Fernando
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Zubayr Hamza
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Pathum Nissaanka
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Kurtis Patterson
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Hashmatullah Shahidi
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Manoj Tiwary
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Gulbadin Naib
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Parvez Rasool
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Dasun Shanaka
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Wesley Agar
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Shoriful Islam
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Josh Little
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Blessing Muzarabani
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Jayden Seales
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Mohit Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Barinder Sran
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Neil Wagner
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Curtis Campher
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Wayne Parnell
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Samit Patel
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Thisara Perera
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Murali Vijay
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Jack Wildermuth
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Hamish Bennett
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Daryn Dupavillon
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Fidel Edwards
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Hamid Hassan
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Lahiru Kumara
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Joel Paris
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           S. Sreesanth
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Oshane Thomas
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Blair Tickner
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Isuru Udana
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Mark Adnair
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Hilton Cartwright
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Gareth Delany
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Danushka Gunatilaka
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Anaru  Kitchen
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Dhananjaya Lakshan
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sisanda Magala
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Andile Phehlukwayo
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Seekkuge Prasanna
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Raymon Reifer
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Brad Wheal
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B950%2C00%2C000">
+           ₹50,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Sandeep Lamichhane
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B940%2C00%2C000">
+           ₹40,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Tom Kohler-Cadmore
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B940%2C00%2C000">
+           ₹40,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Harpreet Bhatia
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B940%2C00%2C000">
+           ₹40,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Laurie Evans
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B940%2C00%2C000">
+           ₹40,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Arun  Karthick
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B940%2C00%2C000">
+           ₹40,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Kennar Lewis
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B940%2C00%2C000">
+           ₹40,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ali Khan
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B940%2C00%2C000">
+           ₹40,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Chris Green
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B940%2C00%2C000">
+           ₹40,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ben Dwarshuis
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B930%2C00%2C000">
+           ₹30,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Jalaj Saxena
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B930%2C00%2C000">
+           ₹30,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Matt Kelly
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B930%2C00%2C000">
+           ₹30,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Rajat Patidar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Mohammed Azharuddeen
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Vishnu Solanki
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           M. Siddharth
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sachin Baby
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ricky Bhui
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Himanshu Rana
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Harnoor Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Himmat Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Virat  Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Arzan Nagwaswalla
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Akash Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Yash Thakur
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Vasu Vats
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Mujtaba Yousuf
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Tanmay Agarwal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shivam Chauhan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Nikhil Gangta
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Rohan Kadam
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Priyank Panchal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sameer Rizvi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ritwik Roy Chowdhury
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Apoorv Wankhade
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Atharva Ankolekar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Tanay Thyagarajan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ankush Bains
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Prashant Chopra
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Kedar Devdhar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shreevats Goswami
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Akshdeep  Nath
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Aditya Tare
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Upendra Singh Yadav
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Pankaj Jaswal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Lukman Hussain Meriwala
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Vyshak Vijay Kumar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Zeeshan Ansari
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Yuvraj Chudasama
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Dharmendrasinh Jadeja
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Khrievitso Kense
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Prince Balwant Rai
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Pardeep Sahu
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Midhun Sudhesan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sudip  Chatterjee
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Hiten Dalal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Abhimanyu Easwaran
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Rahul Gahlaut
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Amandeep Khare
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Mayank Rawat
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Dhruv Shorey
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Hayden Kerr
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Saurabh Kumar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Shams Mulani
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Dhruv Patel
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Atit Sheth
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Utkarsh Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Kaif Ahmad
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shubhum Arora
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Eknath Kerkar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Nikhil Naik
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Urvil Patel
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           B.R. Sharath
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           K.L. Shrijith
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Mohit Avasthi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Sushant Mishra
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Matheesha Pathirana
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           G Periyasamy
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           M.Harishankar Reddy
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           R. Silambarasan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Aditya Thakare
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Tanveer Ul Haq
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Prithviraj Yarra
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Satyajeet Bachhav
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Chintal Gandhi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Jacob Lintott
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Izharulhuq Naveed
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Tanveer Sangha
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Manav Suthar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Milind Tandon
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sagar  Udeshi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Kushaal Wadhwani
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Akshay Wakhare
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Qamran Iqbal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Ishank Jaggi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Rohan  Kunnummal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Tanmay Mishra
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Yash Nahar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shubham Singh Rohilla
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Alex Ross
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Naushad Shaikh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Baba Aparajith
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Prayas Barman
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Yudhvir Charak
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shubhang Hegde
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Roosh Kalaria
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Tanush Kotian
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Kaushal Tambe
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shivank Vashisth
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Rahul Chandrol
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Harvik  Desai
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Cam Fletcher
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Tarang Gohel
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Fazil Makaya
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Ryan Rickelton
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Sandeep Kumar Tomar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Siddhesh Wath
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Stephen Cheepurupalli
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Aniket Choudhary
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Kartikeya Kak
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Kulwant Khejroliya
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ronit More
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           M Nidheesh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Babasafi Pathan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Vidyadhar Patil
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Mukesh Kumar Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           R. Alexandar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Adithya Ashok
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Jasmer  Dhankhar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Prerit Dutta
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Jon Russ Jaggesar
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           S. Kishan Kumar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Kevin Koththigoda
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Swaraj Wabale
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Donavon Ferreira
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Bhupen Lalwani
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Henan Malik
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Pukhraj Mann
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shashwat Rawat
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Jake Weatherald
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Gerald Coetzee
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Akshay Karnewar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sumit Kumar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Abid Mushtaq
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Lone Muzaffar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ninad Rathva
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shoun  Roger
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Jaideep Bhambhu
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Nandre Burger
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           V Koushik
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Akash Madhwal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Amit Mishra
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Anuj Raj
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Abhijeet Saket
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Rahul Shukla
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Nuwan Thushara
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Amit Ali
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Chaitanya Bishnoi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Mayank Dagar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Migael Pretorius
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shivam  Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Pratyush Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sanvir  Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Dhrushant Soni
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           M Venkatesh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Bandaru Ayyappa
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Gurnoor Singh Brar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Akash Choudhary
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Mohit Jangra
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Aaqib Khan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Ruben Trumpelmann
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Lalit Yadav
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Auqib Dar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Chirag Gandhi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sijomon Joseph
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Anirudha Joshi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shubham Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Shubham Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Arpit Guleria
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Vipul Krishna
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Safvan Patel
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Chinntla Readdi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Manish Reddy
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ravi Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shubham Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Corbin Bosch
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Nathan McAndrew
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Diwesh Pathania
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shubham Ranjane
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Tom Rogers
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Johannes Smit
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Sagar Trivedi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Harsh Tyagi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           R. Vivek
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           R.Sonu Yadav
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           V. Athisayaraj
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Ottneil Baartman
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           M.B. Darshan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           V. Gowtham
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Khwezi Gumede
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Liam Guthrie
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Liam Hatcher
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Jay Bista
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Saurav Chuahan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Tajinder Dhillon
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Dikshanshu Negi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Abhishek Raut
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           K.V. Sasikanth
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Bharat Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Shivam  Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Amit Yadav
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Manoj Bhandage
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Arun Chaprana
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ajay Dev Goud
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Divyang Hinganekar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Azim Kazi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Sujit Nayak
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Parth Sahani
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Ashutosh Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Vivrant Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Kumar Kartikeya Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ravi Chauhan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Shafiqullah Ghafari
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           M. Mohammed
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Pulkit Narang
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Pradosh Paul
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Pushpendra Singh Rathore
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Jason Sangha
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Purnank Tyagi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Samarth  Vyas
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Duan Jansen
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Dev Lakra
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Ajay Mandal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Lakhan Raja
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Girinath Reddy
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Siddhant Sharma
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Matthew Short
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Saurin Thakar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Nyeem Young
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Yuvraj Chaudhary
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Khizar Dafedar
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Sahil Dhiwan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Arjit Gupta
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Mickil Jaiswal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Ryan John
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           J. Kousik
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Jitender Pal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Jonty Sidhu
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Yashovardhan Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Beyers Swanepoel
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Pranshu Vijayran
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Ishan Afridi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Mohammed Afridi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Prerit Agrawal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Aidan Cahill
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Mark Deyal
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Nidhish Rajagopal
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Bavanaka Sandeep
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Safyaan Sharif
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Henry Shipley
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Maxwell Swaminathan
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Johan Van Dyk
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Dunith Wellalage
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Agnivesh Ayachi
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Aaron  Hardie
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Lance Morris
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Nivethan Radhakrishnan
+          </td>
+          <td ddtf-value="Overseas">
+           Overseas
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Rohan Rana
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           K Nitish Reddy
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Batsman">
+           Batsman
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Hardik Tamore
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Wicket%20Keeper">
+           Wicket Keeper
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Mihir Hirwani
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="odd">
+          <td>
+           Sairaj Patil
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="All-Rounder">
+           All-Rounder
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+         <tr class="even">
+          <td>
+           Monu Singh
+          </td>
+          <td ddtf-value="Indian">
+           Indian
+          </td>
+          <td ddtf-value="Bowler">
+           Bowler
+          </td>
+          <td class="rpSymbol sorting_1" ddtf-value="%E2%82%B920%2C00%2C000">
+           ₹20,00,000
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
