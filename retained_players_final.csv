@@ -1,24 +1,24 @@
-Player,Player Origin,Role,average_batting_performance_index,average_bowling_performance_index,capped_status
-Virat Kohli,Indian,Batsman,1.0741314048554933,2.5877434699770507,1
-Srikar Bharat,Indian,Wicket Keeper,0.2249524232965142,0.0,0
-Tim David,Overseas,Batsman,0.5419274629977734,0.0,0
-AB de Villiers,Overseas,Wicket Keeper,0.9902123149267752,0.0,1
-Devdutt Padikkal,Indian,Batsman,0.4380489893706588,0.0,0
-Rajat Patidar,Indian,Batsman,0.4115330648140231,0.0,0
-Sachin Baby,Indian,Batsman,0.1060037814697081,0.0,0
-Josh Philippe,Overseas,Wicket Keeper,0.114278133889709,0.0,0
-Dan Christian,Overseas,All-Rounder,0.1899275026671207,2.40186605156892,1
-Glenn Maxwell,Overseas,All-Rounder,0.5771630422118834,3.4993735337580123,1
-Suyash Prabhudessai,Indian,All-Rounder,0.1214415580134145,0.0,0
-Shahbaz Ahmed,Indian,All-Rounder,0.3263517396688129,2.249272101180301,0
-Scott Kuggeleijn,Overseas,All-Rounder,0.0,1.8416270476639351,1
-Washington Sundar,Indian,All-Rounder,0.277149329636694,2.398004258825166,1
-Akash Deep,Indian,Bowler,0.0,2.137212169975576,0
-Yuzvendra Chahal,Indian,Bowler,0.0433825441796881,2.777185932261971,1
-Kyle Jamieson,Overseas,Bowler,0.1330968250248089,3.7960712369462937,1
-Mohammed Siraj,Indian,Bowler,0.2080031224201208,2.421837801837564,1
-Harshal Patel,Indian,Bowler,0.1759718007975069,2.833987701348448,1
-Navdeep Saini,Indian,Bowler,0.0836206386155201,2.59058470754541,1
-Dushmantha Chameera,Overseas,Bowler,0.2413521268892626,1.4326191015626255,1
-Kane Richardson,Overseas,Bowler,0.06892864859174,4.872315818950556,1
-Adam Zampa,Overseas,Bowler,0.0778723870392878,4.741970348154374,1
+,Unnamed: 0,Player,Player Origin,Role,average_batting_performance_index,average_bowling_performance_index,capped_status
+0,0,Virat Kohli,Indian,Batsman,1.0,0.03439556929834808,1
+1,1,Srikar Bharat,Indian,Wicket Keeper,0.2094272844827378,0.0,0
+2,2,Tim David,Overseas,Batsman,0.5045262251415885,0.0,0
+3,3,AB de Villiers,Overseas,Wicket Keeper,0.92187260371555,0.0,1
+4,4,Devdutt Padikkal,Indian,Batsman,0.40781694622325193,0.0,0
+5,5,Rajat Patidar,Indian,Batsman,0.3831310237776617,0.0,0
+6,6,Sachin Baby,Indian,Batsman,0.0986879081931034,0.0,0
+7,7,Josh Philippe,Overseas,Wicket Keeper,0.1063912044402828,0.0,0
+8,8,Dan Christian,Overseas,All-Rounder,0.1768196161182647,0.031924938148069626,1
+9,9,Glenn Maxwell,Overseas,All-Rounder,0.5373300134442407,0.046512703549492995,1
+10,10,Suyash Prabhudessai,Indian,All-Rounder,0.1130602433412255,0.0,0
+11,11,Shahbaz Ahmed,Indian,All-Rounder,0.3038285057057038,0.029896701633904288,0
+12,12,Scott Kuggeleijn,Overseas,All-Rounder,0.0,0.02447839651594169,1
+13,13,Washington Sundar,Indian,All-Rounder,0.2580218103519465,0.031873608268784964,1
+14,14,Akash Deep,Indian,Bowler,0.0,0.02840723207324708,0
+15,15,Yuzvendra Chahal,Indian,Bowler,0.04038848876737239,0.03691358602418235,1
+16,16,Kyle Jamieson,Overseas,Bowler,0.1239111196480796,0.05045632722358298,1
+17,17,Mohammed Siraj,Indian,Bowler,0.1936477431717065,0.032190397119696595,1
+18,18,Harshal Patel,Indian,Bowler,0.1638270699488402,0.037668579402602514,1
+19,19,Navdeep Saini,Indian,Bowler,0.0778495426514132,0.03443333424097447,1
+20,20,Dushmantha Chameera,Overseas,Bowler,0.2246951590822657,0.01904197620731371,1
+21,21,Kane Richardson,Overseas,Bowler,0.0641715234096644,0.06476147204639171,1
+22,22,Adam Zampa,Overseas,Bowler,0.0724980078668906,0.06302895615928347,1
