@@ -6,7 +6,7 @@
 Input files:
 1. `deliveries.csv`: ball-by-ball IPL complete data
 2. `IPLPLayerAuctionData.csv`: auction data
-3. `unsold_players.csv`: unsold players in the 2022 auction
+3. `retained_players.csv`: players who played in RCB team, 2021
 
 `player_performance.ipynb` calculates the player performance and merges it with auction data to produce 2 files: `final.csv` and `retained_players_final.csv`.
 
