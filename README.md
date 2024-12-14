@@ -14,7 +14,7 @@ Input files:
 
 ## Running the Optimizer
 
-i. Run `solution_general.py` for the list of players to be chosen for a team starting from scratch, assuming no players will be retained.
-ii. Run `solution_rcb.py` for the list of new players from the auction as well as the list of retained players to be chosen for RCB.
+1. Run `solution_general.py` for the list of players to be chosen for a team starting from scratch, assuming no players will be retained.
+2. Run `solution_rcb.py` for the list of new players from the auction as well as the list of retained players to be chosen for RCB.
 
 In both cases, a file called `player_names.txt` is generated containing the list of players to be chosen.
